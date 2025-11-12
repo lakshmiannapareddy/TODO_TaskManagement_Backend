@@ -16,7 +16,8 @@ const corsOptions = {
   origin: [
     "http://localhost:3000",
     "https://task-manager-frontend-three-rust.vercel.app",
-    "https://task-manager-frontend-5sbsrfw7c-lakshmis-projects-8147081f.vercel.app"
+    "https://task-manager-frontend-5sbsrfw7c-lakshmis-projects-8147081f.vercel.app",
+    "https://todoapplication-2yv3ew6xf-lakshmis-projects-8147081f.vercel.app"
   ],
   credentials: true
 };

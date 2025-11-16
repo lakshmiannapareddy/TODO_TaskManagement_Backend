@@ -81,7 +81,7 @@ Notes for production
 ```
 
 ## Author
-Lakshmi — Full Stack Developer
+Lakshmi Annapareddy — Full Stack Developer
 
 ## Usage example
 

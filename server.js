@@ -15,11 +15,10 @@ const PORT = process.env.PORT || 5000;
 const corsOptions = {
   origin: [
     "http://localhost:3000",
-    "https://task-manager-frontend-three-rust.vercel.app",
-    "https://task-manager-frontend-5sbsrfw7c-lakshmis-projects-8147081f.vercel.app",
+   
     "https://todoapplication-2yv3ew6xf-lakshmis-projects-8147081f.vercel.app",
-    "https://todoapplication-blue-phi.vercel.app", // ✅ ADD THIS
-    "https://todoapplication-git-main-lakshmis-projects-8147081f.vercel.app" // ✅ optional if used
+    "https://todoapplication-blue-phi.vercel.app",
+    "https://todoapplication-git-main-lakshmis-projects-8147081f.vercel.app" 
   ],
   credentials: true,
 };
